@@ -1,4 +1,4 @@
-#Hiii all this is DAY72 Today's topic is star pattern 
+#Hiii all this is DAY72(15-01-2024) Today's topic is star pattern 
 # define size n = even only
 n = 8
 
